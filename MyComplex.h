@@ -1,6 +1,5 @@
 /**
-  * @author Koll Klienstuber, Partner Hannah Madland
-  * @brief Assignment 5
+  * @author Koll Klienstuber
   */
 #ifndef MyComplex_H
 #define MyComplex_H
